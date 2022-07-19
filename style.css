@@ -22,7 +22,6 @@ h1{
     font-weight: normal;
     color: antiquewhite;
    position: fixed;
-   margin-top: 5rem;
 }
 .countdown-container{
     display: flex;
