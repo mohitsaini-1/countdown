@@ -28,6 +28,7 @@ h1{
     display: flex;
     margin: auto;
     flex-wrap: wrap;
+     justify-content: center;
 }
 .bluelight {
     text-shadow: 0 0 10px #3498DB,
@@ -41,7 +42,7 @@ h1{
   }
 .Big-text{
     font-size: 6rem;
-    margin: 0 2rem;
+    margin: 1rem 2rem;
     line-height: 1;
     font-weight: bold;
 }
