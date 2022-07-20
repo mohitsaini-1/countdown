@@ -21,11 +21,13 @@ h1{
     font-size: 4rem;
     font-weight: normal;
     color: antiquewhite;
-   position: fixed;
+    position: relative;
+   margin-top: 10rem;
 }
 .countdown-container{
     display: flex;
     margin: auto;
+    flex-wrap: wrap;
 }
 .bluelight {
     text-shadow: 0 0 10px #3498DB,
